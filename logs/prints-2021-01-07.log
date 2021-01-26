@@ -1,0 +1,6 @@
+21:48:59.083 [TestNG-tests-2] INFO  resources.base - clicked the login button in the home page
+21:48:59.592 [TestNG-tests-2] INFO  resources.base - Username given issana.abdulwahab14@gmail.com
+21:49:00.464 [TestNG-tests-2] INFO  resources.base - Password given is56789010
+21:49:00.831 [TestNG-tests-2] INFO  resources.base - Username given isgetsana@gmail.com
+21:49:01.028 [TestNG-tests-2] INFO  resources.base - Password given is12456789
+21:49:11.663 [TestNG-tests-3] INFO  resources.base - Driver is intialised

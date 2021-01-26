@@ -1,0 +1,7 @@
+22:56:07.612 [TestNG-tests-4] INFO  resources.base - Driver is intialised
+22:56:07.689 [TestNG-tests-4] INFO  resources.base - Home page Title bar button is validated
+22:56:07.863 [TestNG-tests-4] INFO  resources.base - driver is closed
+22:58:54.113 [TestNG-tests-4] INFO  resources.base - Driver is intialised
+22:58:54.771 [TestNG-tests-3] INFO  resources.base - Driver is intialised
+22:58:54.776 [TestNG-tests-4] INFO  resources.base - Home page Title bar button is validated
+22:58:54.803 [TestNG-tests-1] INFO  resources.base - Driver is intialised

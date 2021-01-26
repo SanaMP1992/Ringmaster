@@ -1,0 +1,6 @@
+23:56:06.360 [TestNG-tests-2] INFO  resources.base - clicked the login button in the home page
+23:56:07.067 [TestNG-tests-2] INFO  resources.base - Username given issana.abdulwahab14@gmail.com
+23:56:07.468 [TestNG-tests-2] INFO  resources.base - Password given is56789010
+23:56:07.801 [TestNG-tests-2] INFO  resources.base - Username given isgetsana@gmail.com
+23:56:07.872 [TestNG-tests-3] INFO  resources.base - Driver is intialised
+23:56:08.181 [TestNG-tests-3] INFO  resources.base - Home page Title bar button is validated

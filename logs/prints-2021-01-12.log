@@ -1,0 +1,7 @@
+00:19:27.016 [TestNG-tests-2] INFO  resources.base - Driver is intialised
+00:19:27.327 [TestNG-tests-1] INFO  resources.base - Driver is intialised
+00:19:27.890 [TestNG-tests-4] INFO  resources.base - Driver is intialised
+00:19:28.277 [TestNG-tests-3] INFO  resources.base - Driver is intialised
+00:19:29.025 [TestNG-tests-4] INFO  resources.base - Home page Title bar button is validated
+00:19:29.279 [TestNG-tests-3] INFO  resources.base - Home page Title bar button is validated
+00:19:30.026 [TestNG-tests-2] INFO  resources.base - clicked the login button in the home page
